@@ -1,4 +1,10 @@
-
+// ******************************************
+// Jesse Tripp
+// COSC 211
+// Assignment 6 - PE 13.7
+// Project Description: implement interface,
+// display 'howToMethod'
+// ******************************************
 public class Exercise13_7 {
 
   public static void main(String[] args) {
